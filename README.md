@@ -1,16 +1,29 @@
-## Hi there 👋
+  ### 👋 Olá, Me chamo **Gabriel**!
 
-<!--
-**Gabrielzim1953/Gabrielzim1953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desenvolvedor Web — Crio sites para negócios locais**
 
-Here are some ideas to get you started:
+📍 Minas Gerais — Brasil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 O que eu faço
+- 🌐 Sites profissionais e páginas de venda
+- 💈 Sistemas de agendamento
+- 📱 Páginas que funcionam no celular e no computador
+- ⚡ Sempre aprendendo e evoluindo
+
+### 🛠️ O que uso
+HTML5 | CSS | JavaScript | Git/GitHub
+
+### 📂 Projetos que já fiz
+- ✅ Site para [nome do cliente] — link: [endereço]
+- ✅ Site para [nome do cliente] — link: [endereço]
+- ✅ Sistema de agendamento — em desenvolvimento
+
+### 📫 Fala comigo
+- 📷 Instagram: **@seu_usuario_aqui**
+- ✉️ E-mail: **seu_email@aqui.com**
+
+---
+
+> "Transformando ideias em sites funcionais, direto daqui de Jaíba!" 💪
