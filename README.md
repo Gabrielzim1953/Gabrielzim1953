@@ -26,4 +26,4 @@ HTML5 | CSS | JavaScript | Git/GitHub
 
 ---
 
-> "Transformando ideias em sites funcionais, direto daqui de Jaíba!" 💪
+> "Transformando ideias em sites funcionais!" 💪
