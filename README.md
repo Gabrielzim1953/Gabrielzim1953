@@ -1,4 +1,4 @@
-  ### 👋 Olá, Me chamo **Gabriel**!
+  ### Me chamo Gabriel **!
 
 💻 **Desenvolvedor Web — Crio sites para negócios locais**
 
@@ -21,8 +21,7 @@ HTML5 | CSS | JavaScript | Git/GitHub
 - ✅ Sistema de agendamento — em desenvolvimento
 
 ### 📫 Fala comigo
-- 📷 Instagram: **@seu_usuario_aqui**
-- ✉️ E-mail: **seu_email@aqui.com**
+- 📷 Instagram: **@gabrielzim_ct**
 
 ---
 
